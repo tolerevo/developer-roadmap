@@ -81,8 +81,8 @@ importers:
         specifier: ^6.1.13
         version: 6.1.13
       npm-check-updates:
-        specifier: ^17.0.0
-        version: 17.0.0
+        specifier: ^17.1.1
+        version: 17.1.1
       playwright:
         specifier: ^1.47.1
         version: 1.47.1
@@ -2436,8 +2436,8 @@ packages:
     resolution: {integrity: sha512-bdok/XvKII3nUpklnV6P2hxtMNrCboOjAcyBuQnWEhO665FwrSNRxU+AqpsyvO6LgGYPspN+lu5CLtw4jPRKNA==}
     engines: {node: '>=0.10.0'}
 
-  npm-check-updates@17.0.0:
-    resolution: {integrity: sha512-rXJTiUYBa+GzlvPgemFlwlTdsqS2C16trlW58d9it8u3Hnp0M+Fzmd3NsYBFCjlRlgMZwzuCIBKd9bvIz6yx0Q==}
+  npm-check-updates@17.1.1:
+    resolution: {integrity: sha512-2aqIzGAEWB7xPf0hKHTkNmUM5jHbn2S5r2/z/7dA5Ij2h/sVYAg9R/uVkaUC3VORPAfBm7pKkCWo6E9clEVQ9A==}
     engines: {node: ^18.18.0 || >=20.0.0, npm: '>=8.12.1'}
     hasBin: true
 
@@ -5713,7 +5713,7 @@ snapshots:
 
   normalize-range@0.1.2: {}
 
-  npm-check-updates@17.0.0: {}
+  npm-check-updates@17.1.1: {}
 
   nth-check@2.1.1:
     dependencies:
