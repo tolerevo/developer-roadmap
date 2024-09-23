@@ -76,7 +76,7 @@
     "zustand": "^4.5.4"
   },
   "devDependencies": {
-    "@playwright/test": "^1.45.3",
+    "@playwright/test": "^1.47.2",
     "@tailwindcss/typography": "^0.5.13",
     "@types/dom-to-image": "^2.6.7",
     "@types/js-cookie": "^3.0.6",
