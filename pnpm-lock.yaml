@@ -24,8 +24,8 @@ importers:
         specifier: ^4.4.3
         version: 4.4.3
       '@nanostores/react':
-        specifier: ^0.7.2
-        version: 0.7.2(nanostores@0.10.3)(react@18.3.1)
+        specifier: ^0.8.0
+        version: 0.8.0(nanostores@0.10.3)(react@18.3.1)
       '@napi-rs/image':
         specifier: ^1.9.2
         version: 1.9.2
@@ -782,11 +782,11 @@ packages:
   '@mixmark-io/domino@2.2.0':
     resolution: {integrity: sha512-Y28PR25bHXUg88kCV7nivXrP2Nj2RueZ3/l/jdx6J9f8J4nsEGcgX0Qe6lt7Pa+J79+kPiJU3LguR6O/6zrLOw==}
 
-  '@nanostores/react@0.7.2':
-    resolution: {integrity: sha512-e3OhHJFv3NMSFYDgREdlAQqkyBTHJM91s31kOZ4OvZwJKdFk5BLk0MLbh51EOGUz9QGX2aCHfy1RvweSi7fgwA==}
+  '@nanostores/react@0.8.0':
+    resolution: {integrity: sha512-MhbVB7NQLboq/Z9fRTDen9zib/YCffe6mn+3Xg5MOYByMX5Xx98SOZjk/Nd3yvOd/g7GjlQqwXj0KF2lPb6CEQ==}
     engines: {node: ^18.0.0 || >=20.0.0}
     peerDependencies:
-      nanostores: ^0.9.0 || ^0.10.0
+      nanostores: ^0.9.0 || ^0.10.0 || ^0.11.0
       react: '>=18.0.0'
 
   '@napi-rs/image-android-arm64@1.9.2':
@@ -3796,7 +3796,7 @@ snapshots:
 
   '@mixmark-io/domino@2.2.0': {}
 
-  '@nanostores/react@0.7.2(nanostores@0.10.3)(react@18.3.1)':
+  '@nanostores/react@0.8.0(nanostores@0.10.3)(react@18.3.1)':
     dependencies:
       nanostores: 0.10.3
       react: 18.3.1
